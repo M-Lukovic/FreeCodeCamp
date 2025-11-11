@@ -10,7 +10,7 @@
   <body>
     <h1>Lemonade</h1>
     <p>Lemonade is a drink made from lemon juice, water, and sugar</p>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTObhbc0M2D-r0_UP6qrKXpQkjZ3HdxpCLmA3n7lz4BEXlsNdBfW9KXETdJ5-yFbapZZGs&usqp=CAU" alt="Picture of Lemonade">
+    <img src="" alt="Picture of Lemonade">
     <h2>Ingredients</h2>
     <ul>
       <li>4 to 5 large lemons</li>
