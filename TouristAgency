@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Discover Serbia">
+    <title>Marko Travel Agency</title>
+  </head>
+
+  <body>
+    <h1>Discover Serbia</h1>
+    <p>Serbia offers opportunities for cultural tourism in cities like Belgrade and Niš, outdoor adventures like hiking and rafting in its natural landscapes, and relaxation in thermal spas and historic wine regions.</p>
+    <h2>Packages</h2>
+    <p>We offer an extensive range of holiday solutions to accommodate the needs of all our clients. From daily excursions in the most beautiful cities, to thorough tours of hidden villages and mountains and ortodox monastery to discover Serbia's lesser-known sides.</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://www.tarasportrafting.com/sites/default/files/rafting-tara-river-canyon-02.jpg" alt="Tara rafting">
+      </a>
+      <figcaption>Tara rafting</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://media.vestizssmestaj.rs/2020/04/Visočka-banja.jpg" alt="Visoka spa">
+      </a>
+      <figcaption>Visoka spa</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.getyourguide.com/image/format=auto,fit=contain,gravity=auto,quality=60,width=1440,height=650,dpr=1/tour_img/c4d20698a8a13738.jpeg" alt="Niš Fortress">
+      </a>
+      <figcaption>Niš Fortress</figcaption>
+    </figure>
+  </body>
+</html>
